@@ -34,8 +34,8 @@ Experiment-4:
 hyperparameter:
 optimizer : sgd changed to adam
 output:
-accuracy : 0.3663
-loss : 1.7615
+accuracy : 0.3168
+loss : 1.9248
 
 Experiment-5:
 hyperparameter:
